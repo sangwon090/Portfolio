@@ -1,3 +1,9 @@
 [submodule "keystroke-captcha"]
 	path = keystroke-captcha
 	url = https://github.com/sangwon090/keystroke-captcha.git
+[submodule "osmium-rpi"]
+	path = osmium-rpi
+	url = https://github.com/sangwon090/osmium-rpi.git
+[submodule "osmium"]
+	path = osmium
+	url = https://github.com/sangwon090/osmium.git
