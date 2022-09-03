@@ -1,0 +1,3 @@
+[submodule "keystroke-captcha"]
+	path = keystroke-captcha
+	url = https://github.com/sangwon090/keystroke-captcha.git
