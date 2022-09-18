@@ -7,3 +7,6 @@
 [submodule "osmium"]
 	path = osmium
 	url = https://github.com/sangwon090/osmium.git
+[submodule "mamba"]
+	path = mamba
+	url = https://github.com/sangwon090/mamba.git
